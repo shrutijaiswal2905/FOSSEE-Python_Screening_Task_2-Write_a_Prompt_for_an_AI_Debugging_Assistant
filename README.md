@@ -13,4 +13,4 @@ The prompt is written so the AI acts like a helpful tutor. It begins by asking s
 No code needs to be run. Just review the prompt and reasoning in `TASK2.md` as part of the screening task.
 
 ## Author
-[Shruti Kumari]
+Shruti Kumari
